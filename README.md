@@ -5,7 +5,7 @@ Using tensorboardX (tensorboard for pytorch) e.g. ploting more than one graph in
 ### Install
 
 1. Install PyTorch: https://pytorch.org/get-started/locally/
-2. Install TensorboardX: pip install tensorboardX (https://tensorboardx.readthedocs.io/en/latest/tutorial.html#install)
+2. Install TensorboardX: ```pip install tensorboardX``` (https://tensorboardx.readthedocs.io/en/latest/tutorial.html#install)
 
 ### Run the code
 Clone the repository:
